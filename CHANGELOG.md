@@ -1,4 +1,12 @@
 Changelog
+### [1.0.4](https://github.com/BrunoUmvel/changelog/compare/v1.0.3...v1.0.4) (2023-02-20)
+
+
+### ✨ Features
+
+* ✨ upload featx [@bruno](https://github.com/{{brunoumvel}}).umvel ([59af7d3](https://github.com/BrunoUmvel/changelog/commit/59af7d3ced7988905b14b4a125a407d783662c0c))
+* ✨ upload featx [@brunoumvel](https://github.com/{{brunoumvel}}) ([06c9a64](https://github.com/BrunoUmvel/changelog/commit/06c9a64f93a1ac03ab47c3b7e3b78bfb4e3ce14e))
+
 ### [1.0.3](https://github.com/BrunoUmvel/changelog/compare/v1.0.2...v1.0.3) (2023-02-20)
 
 
