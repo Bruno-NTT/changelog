@@ -10,7 +10,7 @@
     {"type": "perf", "section": "⚡️ Performance Improvements","hidden": false},
     {"type": "test", "section": "✅ Testing","hidden": false}
   ],
-  "commitUrlFormat": "https://github.com/BrunoUmvel/changelog/commit/{{hash}}",
+  "commitUrlFormat": "https://github.com/BrunoUmvel/changelog/commit/{{hash}}/{{user}}",
   "compareUrlFormat": "https://github.com/BrunoUmvel/changelog/compare/{{previousTag}}...{{currentTag}}",
   "issuePrefixes": ["#"],
   "issueUrlFormat": "https://github.com/BrunoUmvel/changelog/issues/{{id}}"
