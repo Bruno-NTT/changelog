@@ -1,4 +1,11 @@
 Changelog
+### [1.0.10](https://github.com/BrunoUmvel/changelog/compare/v1.0.9...v1.0.10) (2023-02-20)
+
+
+### ✨ Features
+
+* ✨ update hbs3 ([ae60d24](https://github.com/BrunoUmvel/changelog/commit/ae60d2457995593cf17e278272cc88ff7b0cc079/))())
+
 ### [1.0.9](https://github.com/BrunoUmvel/changelog/compare/v1.0.8...v1.0.9) (2023-02-20)
 
 
