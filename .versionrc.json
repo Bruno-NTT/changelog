@@ -13,6 +13,5 @@
   "commitUrlFormat": "https://github.com/BrunoUmvel/changelog/commit/{{hash}}",
   "compareUrlFormat": "https://github.com/BrunoUmvel/changelog/compare/{{previousTag}}...{{currentTag}}",
   "issuePrefixes": ["#"],
-  "issueUrlFormat": "https://github.com/BrunoUmvel/changelog/issues/{{id}}",
-  "userUrlFormat": "https://github.com/{{brunoumvel}}"
+  "issueUrlFormat": "https://github.com/BrunoUmvel/changelog/issues/{{id}}"
 }
