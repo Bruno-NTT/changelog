@@ -1,4 +1,11 @@
 Changelog
+### [1.0.12](https://github.com/BrunoUmvel/changelog/compare/v1.0.11...v1.0.12) (2023-02-20)
+
+
+### ✨ Features
+
+* ✨ update hbs6 ([9cc6a33](https://github.com/BrunoUmvel/changelog/commit/9cc6a339c3f2981da2fe6e92abd987759c52427d/))(https://github.com/BrunoUmvel/changelog/commit/9cc6a339c3f2981da2fe6e92abd987759c52427d/))
+
 ### [1.0.11](https://github.com/BrunoUmvel/changelog/compare/v1.0.10...v1.0.11) (2023-02-20)
 
 
