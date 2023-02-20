@@ -14,5 +14,5 @@
   "compareUrlFormat": "https://github.com/BrunoUmvel/changelog/compare/{{previousTag}}...{{currentTag}}",
   "issuePrefixes": ["#"],
   "issueUrlFormat": "https://github.com/BrunoUmvel/changelog/issues/{{id}}",
-  "userUrlFormat": "https://github.com/{{user}}"
+  "userUrlFormat": "https://github.com/{{brunoumvel}}"
 }
