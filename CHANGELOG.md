@@ -1,4 +1,11 @@
 Changelog
+### [1.0.23](https://github.com/BrunoUmvel/changelog/compare/v1.0.22...v1.0.23) (2023-02-20)
+
+
+### ✨ Features
+
+* ✨ update [@brunox](https://github.com/BrunoUmvel) ([4165db5](https://github.com/BrunoUmvel/changelog/commit/4165db56e04c70977ab77c31c44b3b1eeee776d6/))(this.user)
+
 ### [1.0.22](https://github.com/BrunoUmvel/changelog/compare/v1.0.21...v1.0.22) (2023-02-20)
 
 
