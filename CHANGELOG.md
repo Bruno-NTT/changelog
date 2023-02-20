@@ -1,4 +1,13 @@
 Changelog
+### [1.0.8](https://github.com/BrunoUmvel/changelog/compare/v1.0.7...v1.0.8) (2023-02-20)
+
+
+### ✨ Features
+
+* ✨ update f ([e001a44](https://github.com/BrunoUmvel/changelog/commit/e001a44428ae81772240f8fef9b0aed942abeb07/))())
+* ✨ update featxx ([817525f](https://github.com/BrunoUmvel/changelog/commit/817525f81cc580c6e3438ca70f85ebcbb2cdfdcb/))())
+* ✨ update hbs ([2b7bae0](https://github.com/BrunoUmvel/changelog/commit/2b7bae07fd26706a3d1fd364778796d148329ae4/))())
+
 ### [1.0.7](https://github.com/BrunoUmvel/changelog/compare/v1.0.6...v1.0.7) (2023-02-20)
 
 
