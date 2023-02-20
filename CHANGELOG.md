@@ -1,4 +1,11 @@
 Changelog
+### [1.0.7](https://github.com/BrunoUmvel/changelog/compare/v1.0.6...v1.0.7) (2023-02-20)
+
+
+### ✨ Features
+
+* ✨ update feat ([3d43f4d](https://github.com/BrunoUmvel/changelog/commit/3d43f4d7918198f6d9fe43e92e9956f858e7e5f2/))
+
 ### [1.0.6](https://github.com/BrunoUmvel/changelog/compare/v1.0.5...v1.0.6) (2023-02-20)
 
 
