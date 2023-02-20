@@ -1,4 +1,11 @@
 Changelog
+### [1.0.5](https://github.com/BrunoUmvel/changelog/compare/v1.0.4...v1.0.5) (2023-02-20)
+
+
+### ✨ Features
+
+* ✨ upload featx [@brunoumvel](https://github.com/brunoumvel) ([d76db42](https://github.com/BrunoUmvel/changelog/commit/d76db421239519f3dc14931fa2ae129c05fe06d1))
+
 ### [1.0.4](https://github.com/BrunoUmvel/changelog/compare/v1.0.3...v1.0.4) (2023-02-20)
 
 
